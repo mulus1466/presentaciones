@@ -153,7 +153,7 @@
 - In the end it might be that reason dictates to some women that they should subject to man, but in that case they would be obeying reason and not to /men/.
 - If women end up not being able to be virtuous in the same degree that men are, so bee it; but teach them to strive for the same virtues.
 ** /“If, I say, for I would not impress by declamation when Reason offers her sober light, if they be really capable of acting like rational creatures, let them not be treated like slaves; or, like the brutes who are dependent on the reason of man, when they associate with him; but cultivate their minds, give them the salutary , sublime curb of principle, and let them attain conscious dignity by feeling them - selves only dependent on God. Teach them, in common with man, to submit to necessity, instead of giving, to render them more pleasing, a sex to morals.”/ (Wollstonecraft, 1994, p. 102)
-* TODO Chapter III: The Same Subject Continued
+* DONE Chapter III: The Same Subject Continued
 ** Educating for weakness
 - Physical strength has been left out of the picture for both men and women, so that it may not interfere with their inelligence or their femininity.
   - But in both cases it is false, or greater intellect tends to be accomanied by equaly great body
@@ -205,4 +205,5 @@
   - She will rather think on her husband from beyond the grave than from the eyes that might see her.
 **  /“I think I see her surrounded by her children, reaping the reward of her care. The intelligent eye meets hers, whilst health and innocence smile on their chubby cheeks, and as they grow up the cares of life are lessened by their grateful attention. She lives to see the virtues which she endeavoured [sic] to plant on principles, fixed into habits, to see her children attain a strength of character sufficient to enable them to endure adversity without forgetting their mother's example.”/ (Wollstonecraft, 1994, p. 119)
 ** /“Women, I allow, may have different duties to fulfil [sic]; but they are human duties, and the principles that should regulate the discharge of them, I sturdily maintain, must be the same.”/ (Wollstonecraft, 1994, p. 119)
+** Thanks :D
 

@@ -1,23 +1,87 @@
 #+TITLE: Mary Wollstonecraft
 #+SUBTITLE: A spark in the revolution
+#+LANGUAGE: en
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_THEME: serif
-#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1100
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
 #+OPTIONS: num:nil toc:1
 #+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap"><style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'IM Fell English', serif; heading-font: 'IM Fell English', serif; font-family: 'IM Fell English', serif;} .reveal h1 {font-size: 3.5em} .reveal{font-size: 23pt}</style>
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
 
-* TODO Remove "TODOs". If you are seeing this, I'm a forgetful dumbass.
-* TODO Life & context
-** Context
-- The french revolution
-- Rousseau, Burke and Locke
-- Enlightenment
-  - New, better education
-- Deism
-  - Neoplatonism
+* Life & context
+** Context: The French Revolution
+- Started in 1787, finished in 1799.
+- The bourgeoisie and the peasants had better standards of living, and wanted a say in politics.
+- But things turned violent on some point.
+- Shiff shoff, your head goes off.
+** Context: Locke, Burke and Rousseau
+- Locke was a trendy writer, very popular on intellectual circles in 18th century England.
+  - It seems that Wollstonecraft's emphasis on experience comes from him.
+- Burke was a philosopher and politician of the time, famous for his conservatism and his criticism of the French Revolution.
+  - Some of the criticisms of monarchy and tradition are in response to Burke's comments.
+- Rousseau was Wollstonecraft's intellectual love affair.
+  - Part of her intellectual development is due to her grappling with what she liked and disliked from his philosophy.
+** Context: Enlightenment
+- The Enlightenment was a movement that swept Europe.
+- Reason is in the center of the stage.
+  - Everything must submit to the dictates of reason.
+- New, better education.
+** Context: Deism
+- Pretty much natural religion.
+  - It only accepts the dictates of reason.
+  - Rejects revelation and church authority.
+- Neoplatonism.
+  - Distinction of soul and body.
+  - The body as something accidental.
 ** Life
-* DONE Introduction
+#+REVEAL_HTML: <div class="column" style="float:left; width:70%">
+- (1759) Mary Wollstonecraft  is born on London on April 27.
+- (1760s) Becomes friends with Jane Arden and Fanny Blood.
+- (1778) Moves with Sarah Dwanson as lady's companion.
+- (1780) Her mother dies.
+- (1780s) Makes a school with her sister and Blood.
+- (1786) Becomes governess to the Kingsborough family.
+- (1787) Starts her career as a writer.
+- (1790) She publishes /Vindication of the Rights of Men/.
+- (1792) She publishes /Vindication of the Rights of Women/.
+- (1792) Travel to Paris.
+- (1793) Hell breaks loose on France, declares war to England.
+  - Meets and falls in love with Gilbert Imlay.
+ 
+#+REVEAL_HTML: </div>
+
+ #+REVEAL_HTML: <div class="column" style="float:right; width:30%">
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg/800px-Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg]]
+#+REVEAL_HTML: </div>
+** Life (Continued)
+#+REVEAL_HTML: <div class="column" style="float:left; width:70%">
+- (1794) Gives birth to Fanny, her first daughter.
+- (1795) Returns to London.
+  - Imlay rejects her.
+  - First suicide attempt, saved by Imlay.
+- (1795-6) Travels to Sweden to help Imlay in some business.
+  - Second suicide attempt.
+- (1796-7) Falls in love and eventually marries William Godwin.
+- (1797) Gives birth to Mary on August 30.
+  - Dies on September 10 to septicaemia (age 38).
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:30%">
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MaryWollstonecraft.jpg/800px-MaryWollstonecraft.jpg]]
+#+REVEAL_HTML: </div>
+
+** Two somewhat related great ladies.
+#+REVEAL_HTML: <div class="column" style="float:left; width:35%">
+*Mary Shelley*
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RothwellMaryShelley.jpg/800px-RothwellMaryShelley.jpg]]
+ #+REVEAL_HTML: </div>
+
+ #+REVEAL_HTML: <div class="column" style="float:right; width:30%">
+*Ada Lovelace*
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/800px-Ada_Lovelace_portrait.jpg]]
+#+REVEAL_HTML: </div>
+* Introduction
 ** The central thesis
 - Wollstonecraft believes that one cause of the current state of women is due to a poor education, which seeks to make them beautiful rather than strong, useful or rational.
 - Most of the information used to educate women have been written by men who see women first as women and then as human, when we should go the other way around.
@@ -32,7 +96,7 @@
   - Thus they become like animals or children, incapable of any responsibility.
 - Women are kept away from virtue because a virtuous woman would not be feminine.
   - Wollstonecraft concedes that on average men are physically stronger than women, but this does not justify a different treatment in regards to virtuousness.
-* DONE Chapter I: The Rights and Involved Duties of Mankind Considered
+* Chapter I: The Rights and Involved Duties of Mankind Considered
 ** Human character
 - The human being is characterized by three things:
   1. /Reason/, which diffetentiates it from the brutes.
@@ -86,7 +150,7 @@
   1. Priests and generals rose to power in the early stages of society, establishing an aristocracy.
   2. After some social clash, a monarchy is settled, and crystallized into a feudal system.
   3. The centralization that took place by force ends up being justified and defended by a culture that grows around it, so that no one questions it.
-* DONE Chapter II: The Prevailing Opinion of a Sexual Character Discussed
+* Chapter II: The Prevailing Opinion of a Sexual Character Discussed
 ** Education as a way of subjugation
 - One of the effects of this hierarchical mentality is the difference between the sexes.
 - This is the reason why women are not motivated to strengthen their minds and bodies, making impossible for them to attain virtue and happiness.
@@ -153,7 +217,7 @@
 - In the end it might be that reason dictates to some women that they should subject to man, but in that case they would be obeying reason and not to /men/.
 - If women end up not being able to be virtuous in the same degree that men are, so bee it; but teach them to strive for the same virtues.
 ** /“If, I say, for I would not impress by declamation when Reason offers her sober light, if they be really capable of acting like rational creatures, let them not be treated like slaves; or, like the brutes who are dependent on the reason of man, when they associate with him; but cultivate their minds, give them the salutary , sublime curb of principle, and let them attain conscious dignity by feeling them - selves only dependent on God. Teach them, in common with man, to submit to necessity, instead of giving, to render them more pleasing, a sex to morals.”/ (Wollstonecraft, 1994, p. 102)
-* DONE Chapter III: The Same Subject Continued
+* Chapter III: The Same Subject Continued
 ** Educating for weakness
 - Physical strength has been left out of the picture for both men and women, so that it may not interfere with their inelligence or their femininity.
   - But in both cases it is false, or greater intellect tends to be accomanied by equaly great body

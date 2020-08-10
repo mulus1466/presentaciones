@@ -7,7 +7,7 @@
 #+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap"><style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'IM Fell English', serif; heading-font: 'IM Fell English', serif; font-family: 'IM Fell English', serif;} .reveal h1 {font-size: 3.5em} .reveal{font-size: 23pt}</style>
 #+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
 
-* TODO Remove "TODOs". If you are seeing this, I'm a forgetful idiot.
+* TODO Remove "TODOs". If you are seeing this, I'm a forgetful dumbass.
 * TODO Life & context
 ** Context
 - The french revolution

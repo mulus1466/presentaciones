@@ -1,0 +1,208 @@
+#+TITLE: Mary Wollstonecraft
+#+SUBTITLE: A spark in the revolution
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_THEME: serif
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1100
+#+OPTIONS: num:nil toc:1
+#+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap"><style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'IM Fell English', serif; heading-font: 'IM Fell English', serif; font-family: 'IM Fell English', serif;} .reveal h1 {font-size: 3.5em} .reveal{font-size: 23pt}</style>
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
+
+* TODO Remove "TODOs". If you are seeing this, I'm a forgetful idiot.
+* TODO Life & context
+** Context
+- The french revolution
+- Rousseau, Burke and Locke
+- Enlightenment
+  - New, better education
+- Deism
+  - Neoplatonism
+** Life
+* DONE Introduction
+** The central thesis
+- Wollstonecraft believes that one cause of the current state of women is due to a poor education, which seeks to make them beautiful rather than strong, useful or rational.
+- Most of the information used to educate women have been written by men who see women first as women and then as human, when we should go the other way around.
+  - It is worth it to read these books, as that would help us better understand the current state of women.
+- Wollstonecraft thinks that it is absurd to decry the development of virtues in women by stating that this makes them masculine.
+** Objective and method
+- She wants to instill in women the desire of strength of mind and body, which opens the door to a truly happy and dignified life.
+  - She wishes to show that the traits often associated with femininity are ones that are synonymous with weakness.
+- Wollstonecraft avoids using elegant language as a statement of her mission: she want's to emphasize her arguments, rather than to fall on the traps of language and mannerisms.
+** The problem
+- By cultivating beauty, women leave unattended the strength of body and reason, which [for some reason] are not seen as valuable in a wife.
+  - Thus they become like animals or children, incapable of any responsibility.
+- Women are kept away from virtue because a virtuous woman would not be feminine.
+  - Wollstonecraft concedes that on average men are physically stronger than women, but this does not justify a different treatment in regards to virtuousness.
+* DONE Chapter I: The Rights and Involved Duties of Mankind Considered
+** Human character
+- The human being is characterized by three things:
+  1. /Reason/, which diffetentiates it from the brutes.
+  2. /Virtue/, which puts it above others.
+  3. /Passions/, which help it gain experience and knowledge by struggling with them.
+- To cultivate such qualities is what constitutes human nature's perfection.
+  - This perfection can be achieved collectively through reason.
+** A social problem
+- But prejudice has taken reasons place, and so these qualities have been forgotten by most.
+- The wisest society is that whose constitution is founded on the nature of man.
+  - Woman's subjugation is in part due to an unjust social/political system.
+  - The European civilization seems to have traded everything for nothing: in the monarchical system everyone becomes a slave and is filled with vices.
+    - Instead of seeking virtue people are obsessed with riches, power and status, all the descendants of self-love.
+** The vices of the social system
+- All of these problems have been pride's consequences, sparked by monarchy, hereditary honors and such.
+  - Thus men try to make a world in which he alone is the ultimate authority, forgetting providence.
+- The vices thus produced pushed Rousseau to withdraw from society and to condemn civilization.
+  - He considered that evil is exclusively the work of man, while God's signature is that of goodness and happiness.
+** Rousseau's errors: the cause of evil
+- Rousseau's inclination to the state of nature is not reasonable, as it amounts to the denial of the virtues of civilization.
+  - In nature no single virtue has developed, just the evils which he denounced.
+  - God would not make human's natural state that of vice and say that they are good.
+  - In the same manner, He would not give passion and reason to mankind so that by following them a worse state would be attained.
+- It's absurd not to make God responsible for evil:
+  1. God created (and is responsible for) everything.
+  2. Mankind creates (and is responsible for) evil.
+  3. Thus, God creates (and is responsible for) evil.
+** Rousseau's errors: Barbarism
+- Rousseau seems to forget the cruelty of barbarians when he condemns civilization.
+- He confuses the vestiges of barbarism with the consequences of civilization.
+- Although it is true that there have been many evils in the establishing of civilization, we should rather condemn those who persevere in it.
+  - It is not surprising that many are of this latter sort, as the statesman education is based on these evils.
+** The problem are hierarchies
+- No one can have the sufficient strength and knowledge to take the responsibilities of a king.
+  - But royalty has even lower chances, as their lifestyle and status prevent the development of any virtue.
+- So it is absurd to give so much power to someone who is easily weaker in character than everyone else.
+  - This is aggravated when taking into account that when many rule virtue and happiness become prevalent in a society.
+- Unfortunately those who state this are denounced as enemies of men and God, for their message preaches the damnation of church and state.
+- Wollstonecraft's critique of monarchy extends to all hierarchical systems, no matter what kind of profession they might be in.
+** The standing army as an example
+- In the army only generals and commanders can live the romantic ideal of honor, for they are the only ones with a level of freedom.
+  - Unfortunately they end up pursuing more power and vanity instead.
+- Everyone else has to develop discipline and obedience, a must for military life.
+  - The education of soldiers shuns the intellectual development as it is a hindrance on obedience.
+  - The training of soldiers makes them hide their vices and weaknesses in fashion, and thus they spread it like COVID.
+- The same happens with /sailors/, just that they lack manners, and /clergy/, as their progress depends on obedience to some superior.
+** Hierarchies are /everywhere/
+- As the character of men is in part formed by their profession, and they are usually hierarchical, it is not strange to see how everyone has just accepted this system.
+  - This is why a society should be careful not to depend on occupations that need to train men into foolishness to work.
+- How this came to be
+  1. Priests and generals rose to power in the early stages of society, establishing an aristocracy.
+  2. After some social clash, a monarchy is settled, and crystallized into a feudal system.
+  3. The centralization that took place by force ends up being justified and defended by a culture that grows around it, so that no one questions it.
+* DONE Chapter II: The Prevailing Opinion of a Sexual Character Discussed
+** Education as a way of subjugation
+- One of the effects of this hierarchical mentality is the difference between the sexes.
+- This is the reason why women are not motivated to strengthen their minds and bodies, making impossible for them to attain virtue and happiness.
+- All of this is the consequence of poor female education.
+  - This centers on knowledge of human weakness, softness of temper, /outward/ obedience, scrupulous attention to a puerile kind of propriety (decorum).
+  - Education is centered in such topics because it will help women obtain the protection of man.
+** Women's education
+- When men deny women equal education they are degrading them to a state of childhood or even to that of a beast, as that which differentiates men from animals is their soul and reason.
+  - The only thing taught is /warmness/ and /obedience/.
+- The innocence thus taught is right for children, but when applied to men and women is just /weakness/.
+- It is absurd to believe that the Providence intended women to have virtues, acquired through understanding, and yet to deny them with the proper education that they need for such a task
+** /“By individual education, I mean, for the sense of the word is not precisely defined, such an attention to a child as will slowly sharpen the senses, form the temper, regulate the passions as they begin to ferment, and set the understanding to work before the body arrives at maturity; so that the man may only have to proceed, not to begin, the important task of learning to think and reason.”/ (Wollstonecraft, 1994, p. 86)
+** A reformation in education
+- Thus women must abandon the power of beauty and seek that of reason which elevates them to the same status than men.
+- All of the books written on female education center on making them artificial, weaker and useless to society, thus degrading half of humanity.
+- Education must center in the development of reason and independence, so women can attain virtue.
+** The problems on female education
+- Women's education lacks the emphasis on order and method that men's have, so they end up doing things only according to custom.
+  - This leaves out the possibility of contrasting their experience with generalized speculation.
+- Another problem is that it leaves out the improvement of the body with the excuse of pursuing beauty.
+  - But, can a body really be beautiful if the limbs have hardly developed at all?
+** Women and soldiers: same education, same results
+- Thus, women's education ends up being similar to that of military men, which don't develop much knowledge.
+  - The army must have obedient men, and thus they are educated just to please, just as women are.
+- With the same education, it seems there is no real difference between the sexes on this regard.
+- Both military men and women acquire manners before morals, and knowledge of life before the capacity of reflecting upon it.
+- They end up being useless due to the fact that they have to subject to a hierarchy, so that they blindly obey orders while thinking they have some power.
+  - The woman thinks she commands the man with her beauty, while being enslaved by it.
+** Education should center on virtue
+- This implies a *difference in value* between men and women, in which the latter is inferior to the former and so it must be dependent on it.
+- But, even if we granted this, Wollstonecraft argues that it would lead to undesired consequences:
+  - If we say that women is inferior and thus should develop virtues different in quality and/or degree, then we affirm that virtue is relative.
+- The center of education for both sexes should be the development of virtue and strength of character, so that both can attain the happiness proper to an immortal soul. 
+** To please, or not to please, that's no question
+- Most writers on female education say that the center of their life should be to be pleasing others.
+- But this is even hurtful to marriage, as the husband will eventually get tired of the wife and her desire to please will drive her to look for other men.
+- Even if this does not happen, she will be missing the days when she received the attention that she now lacks. 
+- The capacity of pleasing others is a welcomed thing, but on top, and not instead, of virtues and respectability, as pleasing is still something that can add happiness to life.
+** An obsession with aesthetics
+- It is also false that women have a natural fondness of dresses, as this seems to be more something they learn.
+- It is also said that women should act and dance with modesty, as if their dancing could be the cause of vice rather than the inordinate desires of the observers.
+- Centering women's education in the senses, in beign employed and amusing, can hardly help them to attain a dignified life.
+  - The affections that this raises in man will never allow for a friendship to arise, but only a poor kind of fondness.
+** /“Besides, the woman who strengthens her body and exercises her mind will, by managing her family and practising various virtues, become the friend , and not the humble dependent of her husband; and if she, by possessing such substantial qualities, merit his regard, she will not find it necessary to conceal her affection, nor to pretend to an unnatural coldness of constitution to excite her husband's passions.”/ (Wollstonecraft, 1994, p. 95)
+** Love must not trump friendship
+- It is also false that women should hide their affections so that men are unaware of them, as this would prolong the transitory state of love, and thus block the possibility of true friendship.
+  - Love is stirred with suspense and difficulties.
+  - When a couple gets married and thus their relationship gains stability love is useless, being friendship far more appropriate.
+- Passions are spurs to action, but when whatever was desired is attained, they disappear.
+- /“This is, must be, the course of nature—friendship or indifference inevitably succeeds love.”/ (Wollsonecraft, 1994, p. 96)
+- So the couple should strive for friendshio rather than love, for the nature of love distubs order and makes things difficult
+** Women's education and their immortal soul
+- Women's education seems to be present-oriented, whilst men's is future-oriented.
+  - The latter centers on physical power, knowledge, wisdom and virtue.
+  - The former on pleasure, (hidden) indelicacy and obedience.
+- So it seems that women's education is one that would be proper for a being without an immortal soul, for it does not care about the riches of the everlasting life.
+- It also limits her happiness to those pleasing things which fortune may (or may not) provide her.
+- Thus women attain a place between man and beasts.
+- Instead of this women's education should instill the improvement of the soul, so that theirs would become in the likeness of God.
+** Women's inferiority hasn't been proven
+- It is generally argued that women are inferior to men in the base of history, but this is nonsense.
+  - History is filled with examples of the many being ruled by the few for no reason at all.
+- Until the social system changes there can not be a real discussion on the equality of inferiority of women.
+- In the end it might be that reason dictates to some women that they should subject to man, but in that case they would be obeying reason and not to /men/.
+- If women end up not being able to be virtuous in the same degree that men are, so bee it; but teach them to strive for the same virtues.
+** /“If, I say, for I would not impress by declamation when Reason offers her sober light, if they be really capable of acting like rational creatures, let them not be treated like slaves; or, like the brutes who are dependent on the reason of man, when they associate with him; but cultivate their minds, give them the salutary , sublime curb of principle, and let them attain conscious dignity by feeling them - selves only dependent on God. Teach them, in common with man, to submit to necessity, instead of giving, to render them more pleasing, a sex to morals.”/ (Wollstonecraft, 1994, p. 102)
+* TODO Chapter III: The Same Subject Continued
+** Educating for weakness
+- Physical strength has been left out of the picture for both men and women, so that it may not interfere with their inelligence or their femininity.
+  - But in both cases it is false, or greater intellect tends to be accomanied by equaly great body
+  - Thus, even if men tend to be stronger than women, that's no good reason for justifying differences in education and virtue.
+- The weakness of which some women boast does give them some power over men, but this is temporary, and it prevents from developing virtue.
+  - This present power cost them their virtue and dignity.
+- Having admitted that women tend to be physically weaker than men, why should education bring the latter even lower?
+** The importance of exercise
+- All animals in their infancy exercise all the time, with little to no requirement of intervention. 
+  - But with girls there seems to be a tendency of having an adult around to take car of her, so that she learns to be dependent.
+- While boys go out to play in the open air girls remain at home, idle, with dolls and listening to the chat of their mothers and aunts.
+  - This ends up relaxing both body and mind, turning them far weaker that they should be.
+  - And again, this weakness does not help them to take care of the house, which is what they are supposedly educated for.
+- Were it not for the arbitrary difference between the education of the sexes, both boys and girls would play together without any issue.
+- It is important to take care of bodily health during the infancy, because dependence of body brings dependence of mind.
+** The evils of appearance
+- If the devil were to destroy men, it would give them riches and power without the strength and virtue that are supposed to acquire them.
+  - This absence of effort and image of superiority gives rise to vices.
+  - Women are being educated into this state, for they are taught to pursue sensible beauty rather than moral greatness.
+- So female manners should be overturn in favor of their natural dignity and the universal moral dictates.
+- The foundation of this morality ought to be God, with all His divine perfections closely united:
+  - Wisdom >> justice.
+  - Omnipotence >> goodness.
+** The place of God
+- But it is impossible to know the basis of this moral system unless we dare to do a rational inquiry into God's essence.
+  - But this is something often left aside because of fideism.
+- What are the risks of ignorance of this topic?
+  - Man pursues goodness, and in his worshiping is no different: he either worships something good or dresses what he worships with goodness.
+  - Thus, if we ignore the divine essence we are at risk of just being embellishing a lie rather than worshiping Providence, with all the consequences that implies.
+** Women should not center on beauty
+- Women should get away from what they have been taught, that their only value comes from their body.
+  - It is true that in the current state, men being slaves of their own appetites, women who furnish their bodily beauty are better off than those which pursue the cultivation of the intellect, but at the cost of their independence and dignity.
+- Some say that this commitment to beauty is necessary due to material circumstances.
+  - It is absurd to limit the virtue of an immortal soul as if Providence had limited it as it limited the reach of the waves, with physical laws.
+- Nor should the supposed fallibility of women be an argument for their dependence on men.
+  - Why should we stop there? Why not call for the same dependence on even the most powerful individuals?
+** The widow: why the ideal case does not work
+- Wollstonecraft argues that even in the best case scenario this system would make women miserable: what if she ends up a widow?
+  - She would have to fulfill both her own role and that of the father, to educate the children and to take care of the property, having never acted or thought for herself.
+  - No man will marry her, as he would be marrying her entire family.
+  - And, as she's been trained to please, she will look for a man, and thus chances are that she will become hostile to her daughters, as they now become competitors and points of comparison.
+** The ideal woman
+- Women should only bow to reason, for to be respected is to be educated.
+- Her body has grown in vigor and strength thanks to exercise.
+- Her mind has expanded to comprehend moral duties, virtue and the dignity of the human being.
+- She marries from affection, and when looking for a husband she mainly takes into account his prudence and virtue.
+- She looks for his respect, thus paving the way for friendship when love inevitably dies.
+- Even if she were to become a widow she would stay firm and virtuous, thinking of taking care of her children rather than to drown in self pity.
+  - She will rather think on her husband from beyond the grave than from the eyes that might see her.
+**  /“I think I see her surrounded by her children, reaping the reward of her care. The intelligent eye meets hers, whilst health and innocence smile on their chubby cheeks, and as they grow up the cares of life are lessened by their grateful attention. She lives to see the virtues which she endeavoured [sic] to plant on principles, fixed into habits, to see her children attain a strength of character sufficient to enable them to endure adversity without forgetting their mother's example.”/ (Wollstonecraft, 1994, p. 119)
+** /“Women, I allow, may have different duties to fulfil [sic]; but they are human duties, and the principles that should regulate the discharge of them, I sturdily maintain, must be the same.”/ (Wollstonecraft, 1994, p. 119)
+

@@ -1,0 +1,171 @@
+#+title: Existentialist and Postmodern Feminism
+#+author: Martín Buenahora Bonilla
+#+LANGUAGE: en
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
+#+OPTIONS: toc:2 reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
+
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
+#+REVEAL_HEAD_PREAMBLE:  <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,600;0,900;1,600;1,900&display=swap" rel="stylesheet"> <style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'Overpass'; heading-font: 'Overpass'; font-family: 'Overpass';} .reveal h1 {font-size: 3.5em} .reveal{font-size: 22pt}</style>
+
+* Mini-introduction
+** Rosemarie Tong
+ #+REVEAL_HTML: <div class="column" style="float:left; width:20%">
+[[http://www.instifdt.bg.ac.rs/wp-content/uploads/2011/11/Rosemarie-Tong1.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:80%">
+- Some biographical data
+  - (1949) She is born in Chicago.
+  - (¿?¿?) Receives a BA in religious studies from Marygrove College.
+  - (¿?¿?) Receives a MA in philosophy from the Catholic University of America.
+  - (1978) Receives a PhD in philosophy from Temple University.
+  - (1998) /Feminist Thought: A More Comprehensive Introduction/.
+- Her work
+  - Ethics of care (care and justice are related and compatible).
+  - Bio-ethics.
+  - Stuff on genetic and reproductive technology.
+
+ 
+#+REVEAL_HTML: </div>
+
+** A note on the English language
+|----------+----------+--------|
+| Language | ♀        | ♂      |
+|----------+----------+--------|
+| Spanish  | Mujer    | Hombre |
+| French   | Femme    | Homme  |
+| Greek    | Γυνη     | Ανηρ   |
+| Latin    | Femina   | Vir    |
+| Hebrew   | Eva      | Adam   |
+| *English*  | Fe/male/ | /Male/   |
+|----------+----------+--------|
+* Existentialist feminism
+** Sartre's Philosophy
+*** Ways of being
+- /Being-for-itself:/ The conscious life that humans have.
+  - The consciousness, which is not a thing but still is.
+- /Being-in-itself:/ The material, animal-like humans have.
+  - The body, which can be accessed and works like an object.
+- /Being-for-others:/ a mode of being in relation to other for-itselfs.
+  - It implies a state of conflict, as establishing oneself as a self implies making everyone else an object.
+*** Freedom is a curse
+- /We are condemned to be free:/
+  - That's why we have the /human condition/, not a /human essence/.
+- We are born being nothingness, and through election we define ourselves (eliminating possibilities).
+- We thus tend to have /bad faith:/
+  - We try to escape this state of freedom by imitating objects and just being a role (e. g. a waiter, ignoring someone is taking my hand).
+- But this bad faith has two problems:
+  - The for-itself can never become the in-itself (unless it dies).
+  - Bad faith tries to avoid responsibility, which is what makes our freedom meaningful.
+*** Existence's  infinite [-ish] cycle of misery
+- Being-for-others and it's manifestations are useful concepts for feminist thought:
+  - */Love:/* we desire to be both ourselves and the other, but we end up rejecting our subjectivity and trying to become objects for the other (masochism).
+  - */Indifference:/* we try to ignore other people (as if they did not exist or could not determine us), until someone else irrupts in our life.
+  - */Desire:/* we try to reduce the other to it's flesh, so that we can make sexual use of it, but when we achieve that we realize we wanted it as a subject (sadism).
+  - */Hate:/* when the other does not submit to us as subject, and thus we feel ridiculed or vilified in the other's eyes, we want to destroy them all.
+** Feminism and existentialism{{{NEWLINE}}}(mainly Beauvoir)
+*** Men as /self/, women as /other/
+- For men to be /selves/, they have to subjugate the /other/, which are women.
+  - This relations is particular in it's universality and in being internalized by women.
+- Facts must be interpreted:
+  - /*Biology*/: The fact that women might be weaker/more passive than men biologically does not justify reducing them to an /in-itself/.
+  - /*Psychoanalysis*/: Even though sexuality is an important factor for human beings, women's subjugation is not due to their lack of male genitalia.
+  - /*Marxism*/: The fact that women's traditional labor is not recognized is irrelevant compared with men's tendency to dominate the other.
+*** Beauvoir's thesis
+- Men consider themselves superior to women because they take away life from others instead of giving it.
+- As men became free and a subject, women became everything that men was not, and thus their selfdom became a threat.
+*** The myth of the ideal woman
+- Women are idealized in literature as a being that should sacrifice herself when her spouse needs it.
+  - [Is not that considered a virtue for men, too?]
+- Women's bodies are disguised artificially so that they hide it's nature, which reminds men of the beginning and specially the end of life.
+  - The image hammered through all sort of media is one that impedes women's creative capabilities.
+- The worst part is that women have internalized this and do not even think that this can change, due to how pervasive is in our society.
+  - Something that shows how common is women's objectification is /catcalling/ and /whistling/.
+*** The female roles
+- Roles are the main tool used to limit women's life:
+  - /*Wife*/: this institution reduces the deep and free bond of love into a formalized and routinary obligation, which narrows her world.
+  - /*Mother*/: at first having a child is liberating, as women have someone to turn into an other; but soon enough the child's necessities turn the mother into an other once again.
+  - /*Career woman*/: she has to both keep up with work and with social expectations towards her looks, which prevent her from concentrating on her career.
+  - /*Prostitute*/: They are treated as mere objects, as others, but in their relationship with men they have the upper hand: men both look for them and pay them for their encounters.
+  - /*Narcissist*/: Having begrudgingly accepted that they must be an object, some women turn all their attention to themselves and their looks, becoming self-absorbed.
+  - /*Mystic*/: This role tries to sublimate narcissism by becoming the sole object of an omnipotent subject's attention.
+*** Paths to freedom :D
+- None of these roles were made by women, rather being imposed on them by men. But, as there are no essences, things d not have to (and should not) stay this way.
+- Women should strive to have careers, become intellectuals, advance the marxist revolution, and stop seeing themselves as /others/.
+** A feminist criticism of Beauvoir
+*** Jean Bethke Elshtain's critiques
+- Using obscure language does not help to reach to as much women as we should aspire to.
+- Beauvoir's analyses of the body (specially /female/) is far too negative.
+  - She is too harsh with pregnancy, in contrast with many pregnant women.
+  - This negativity may come from her personal conflicts with aging, death, sexual urges, etc.
+- The outright denigration of traditionally female attributes is a glorification of male ones.
+*** Responses to Elshtain
+- Even if her prose is obscure, Beauvoir received many letters from women of every social class thanking her.
+- Sure, Beauvoir was not a big fan of the body (be it male or female), but she was not as hardcore as Sartre.
+  - She criticized American feminism for being so body-centered.
+* Postmodern feminism
+** The postmodern point of view
+*** The main tenets
+- Postmodern feminism asks why women is the other, rather than why it is the second sex.
+- Maybe being the other is not that bad: you are in a better position to critique society from a pluralistic, open and diverse point of view.
+- In general it rejects phallogocentrism: no absolute word (/logos/), no emphasis on male perspective, no single solution.
+  - Thus women's situation and it's solution is not /only one/.
+- Tong takes Hélène Cixous (inspired on Derrida) and Judith Butler (inspired on Foucault) as main examples of postmodern feminist thought.
+*** The postmodern anticreed
+1. We are creatures that can know how and why we think like we do.
+2. Through reason we can acquire objective and universal knowledge.
+3. Our knowledge captures the unchanging nature of reality (i. e. our knowledge is true).
+4. Reason does not depend on history or time and space.
+5. Reason, freedom, and autonomy relate closely to one another.
+6. Reason is above power, so it always chooses truth when they conflict.
+7. Science is the template for all knowledge, being neutral, objective, and useful.
+8. Language reflects and refers to corresponding objects that our reason finds in the world.
+*** Jacques Derrida
+- To become a member of a society one must internalize its symbolic order: gender, race, class norms, etc.
+- Nothing but language: Derrida uses deconstruction to show that language is holistic.
+  - Also, words get it's meaning in relation not to one but to many other words.
+  - A word's meaning comes not from an idea or essence, but from one of many readings and interpretations that the subject can make with it.
+*** Hélène Cixous: It's a matter of writing
+- Cixous criticizes male literary style for being binary: action-passion, culture-nature, sun-moon, etc-etc.
+- Thus emerges the dyad man-woman, the first being related to positive things, the second to negative things.
+- Women should construct a new world (bringing change wit it) by writing in their style that which men leaves aside.
+  - Woman's writing: marking, scratching, scribbling, jotting down.
+- Woman's writing reflects her sexuality: it's diverse, not ruled by strict norms, and open to explore.
+*** Michel Foucault: on power
+1. Power is coextensive with the social body;
+2. relations of power are interwoven with other kinds of relations: production, kinship, family, sexuality;
+3. power does not take the sole form of prohibition and punishment, but is multiple in form;
+4. interconnections of power delineate general conditions of domination organized in a more or less coherent and unitary strategy;
+5. power relations serve because they are capable of being utilised in a wide range of strategies;
+6. there are no relations of power without possible resistances. (in Tong, p. 198)
+*** Foucault: on power relationships
+- We live within a web of power relationships: those of sanity, violence and sexuality.
+- In sex we are policed by many figures, such as the psychiatrist, the priest, the lover, etc.
+- This relationships and their narratives become internalized, so people see their sexuality and their body according to them.
+  - An example is cosmetic surgery, which defines, subjugates and limits women to their appearance.
+*** Judith Butler: life in a grid
+- As Beauvoir, Butler thinks one is not born a woman, but becomes one.
+  - Gender is something we build out of all the social norms we receive in foucaultian fashion.
+  - Thus, gender is not something we can create out of thin air: we must work with what society gives us.
+- We seem to be trapped in this boy-girl grid since birth, and the most we can do is to alter them /just a little/.
+  - Nussbaum criticizes this, as to bring real change more is needed than the mere personal change.
+  - Nussbaum also disagrees about the importance of sexual pleasure, as helping others seems more important [at an existential level].
+  - Maybe in response to Nussbaum, Butler has taken a clearer position towards the importance of action based on the theory.
+** Criticism of postmodern feminism
+***  Excuse me, what?
+- Many people criticize postmodern feminist writers for their obscure style.
+  - Butler won the first prize in 1998 on the /Bad Writing Contest/. Yep.
+/The move from a structuralist account in which capital is understood to structure social relations in relatively homologous ways to a view of hegemony in which power relations are subject to repetition, convergence, and rearticulation brought the question of temporality into the thinking of structure, and marked a shift from a form of Althusserian theory that takes structural totalities as theoretical objects to one in which the insights into the contingent possibility of structure inaugurate a renewed conception of hegemony as bound up with the contingent sites and strategies of the rearticulation of power./ (Tong, p. 204)
+*** The heresy of essentialism
+- Essences and bodies (Elizabeth Grosz's reading)
+  - Egalitarian feminism undervalued traditional female values in favor of male ones, and ignored the specific reproductive and sexual identities of the female body.
+  - Difference (postmodern) feminism takes the female body and it's implications in a positive light and sees it as something that can be liberating, given the right social recognition.
+- But many feminist do not like this approach, as it seems to view femaleness as some kind of /real/ essence.
+  - Some postmodern feminist answer ascribing to some form of nominalism, so that "female" is just a name for contingent properties.
+  - To avoid separating all women from one another, it has been proposed that gender should be interpreted as a shared position from which to interpret our experience.
+* Tong's conclusions
+- Both existentialist and postmodern feminism share their interest in concepts such as nothingness, absence, the marginal, the peripheral, the repressed, the other, the Second Sex.
+- Gender may not be something entirely negative, as it gives points of view and the possibility of different voices (something that we may not fully understand yet).
+* [My] questions
+- How much does Beauvoir's proposals depend on Sartre's? Could we have a beauvoirdian philosophy without sartrean ideas?
+- Are men blind to catcalling, or the catcallers do it when they can not be heard/seen by other men?

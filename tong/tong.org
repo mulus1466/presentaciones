@@ -29,16 +29,16 @@
 #+REVEAL_HTML: </div>
 
 ** A note on the English language
-|----------+----------+--------|
-| Language | ♀        | ♂      |
-|----------+----------+--------|
-| Spanish  | Mujer    | Hombre |
-| French   | Femme    | Homme  |
-| Greek    | Γυνη     | Ανηρ   |
-| Latin    | Femina   | Vir    |
-| Hebrew   | Eva      | Adam   |
-| *English*  | Fe/male/ | /Male/   |
-|----------+----------+--------|
+|----------+--------+--------|
+| Language | ♂      | ♀      |
+|----------+--------+--------|
+| Spanish  | Hombre | Mujer  |
+| French   | Homme  | Femme  |
+| Greek    | Ανηρ   | Γυνη   |
+| Latin    | Vir    | Femina |
+| Hebrew   | Adam   | Eva    |
+| *English*  | /Male/   | /Female/ |
+|----------+--------+--------|
 * Existentialist feminism
 ** Sartre's Philosophy
 *** Ways of being

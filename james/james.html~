@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<title>Creencias, emociones y verdad</title>
+<meta name="author" content="(Martín Buenahora Bonilla)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css"/>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/serif.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'https://cdn.jsdelivr.net/npm/reveal.js/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+<style>.reveal h1 {font-size: 3.5em} .reveal{font-size: 22pt}</style>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1>Creencias, emociones y verdad</h1><h3>Una co-relatoría sobre <i>The Psychology of Belief</i></h3><h5>Martín Buenahora Bonilla</h5>
+</section>
+<section id="table-of-contents"><div id="table-of-contents">
+<h2>&Iacute;ndice</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#/slide-org3806344">Notica sobre la diagramación del artículo</a></li>
+<li><a href="#/slide-orgdf1aba6">Ver para creer: La creencia como la actitud “por defecto”</a></li>
+<li><a href="#/slide-orgaae729c">Las emociones para James</a></li>
+<li><a href="#/slide-org6dcd88e">El problema de la realidad y la verdad</a></li>
+<li><a href="#/slide-orgf4e6bcd">Bibliografía</a></li>
+</ul>
+</div>
+</div>
+</section>
+
+<section>
+<section id="slide-org3806344">
+<h2 id="org3806344">Notica sobre la diagramación del artículo</h2>
+<div class="column" style="float:center; width:40%">
+<ul>
+<li>La tipografía es de tipo “escocés”, usado para impresiones de baja calidad (Jardí, 2015).</li>
+<li>Tiene <i>espaciado francés</i>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hay más espacio al principio de cada frase.</li>
+<li>&amp;c. En el inglés antiguo <a href="https://www.behance.net/gallery/48075911/Ampersand-Infographic">&amp; era el <i>et</i> latino</a>.</li>
+
+</ul>
+
+
+</div>
+
+<div class="column" style="float:left; width:20%">
+
+
+<div class="figure">
+<p><img src="./diagramacion.png" alt="diagramacion.png" />
+</p>
+</div>
+
+</div>
+
+<div class="column" style="float:right; width:20%">
+
+<div class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/MillerSpecimen.svg/1200px-MillerSpecimen.svg.png" alt="1200px-MillerSpecimen.svg.png" />
+</p>
+</div>
+
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-orgdf1aba6">
+<h2 id="orgdf1aba6">Ver para creer: La creencia como la actitud “por defecto”</h2>
+<div class="outline-text-2" id="text-orgdf1aba6">
+</div>
+</section>
+<section id="slide-orgffaaf4a">
+<h3 id="orgffaaf4a">Las creencias es una actitud automática</h3>
+<ul>
+<li>“We shall presently see that we never disbelieve anything <i>except for the reason that we believe something else</i> which contradicts the first thing” [énfasis mío] (James, 1889, p. 322).</li>
+<li>James se apoya en Spinoza y su ejemplo del caballo halado para exponer su punto.
+<ul>
+<li>En Spinoza todas las ideas son afirmativas, y nunca neutrales (Spinoza, 2018, EIIp32-35).</li>
+
+</ul></li>
+<li>Al menos por lo visto hasta ahora, James no parece dar razón de esta suposición, más allá de decir que la duda debe ser justificada.</li>
+
+</ul>
+</section>
+<section id="slide-orga071954">
+<h3 id="orga071954">El nacimiento de un angelito</h3>
+<ul>
+<li>Pero supongamos el caso de un ángel recién creado, que de un modo u otro es expuesto a la luz de una vela.</li>
+<li>En este momento estamos suponiendo que no tiene ningún conocimiento previo.
+<ul>
+<li>Este es un estado caracterizado por la quietud, al igual que lo es la creencia y la anti-creencia. ¿Podemos caracterizar el estado del ángel de uno u otro modo?</li>
+
+</ul></li>
+<li>Ahora bien, cuando el ángel percibe por primera vez la vela va a pensar en esta como presente, idea en principio distinta (aunque no contradictoria) con lo que este conoce (que no es nada).</li>
+
+</ul>
+</section>
+<section id="slide-orgbe186b1">
+<h3 id="orgbe186b1">Las experiencias pasadas nos pueden hacer dudar de nuestros sentidos</h3>
+<ul>
+<li>Otro caso interesante es el de una persona que ha sufrido una ilusión en el pasado: p. ej. ha visto un palo “quebrarse” cuando lo sumergen por la mitad.</li>
+<li>Podemos decir que tiene la creencia de que “los sentidos ocasionalmente nos fallan”.</li>
+<li>Ahora, supongamos que esta persona cree ver a alguien que conoce a lo lejos, pero dada su creencia sobre los sentidos duda de si es este o no.
+<ul>
+<li>En este caso, la creencia que lleva a la duda no es “Mi amigo está en otra ciudad”, o alguna equivalente, por lo que en principio no parece contradictoria.</li>
+<li>Por esto parece que en parte la creencia de “este es mi amigo” debe incluir la creencia de que mi percepción no me miente, o más bien de que “estoy viendo a mi amigo”.</li>
+
+</ul></li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orgaae729c">
+<h2 id="orgaae729c">Las emociones para James</h2>
+<div class="outline-text-2" id="text-orgaae729c">
+</div>
+</section>
+<section id="slide-org5430c17">
+<h3 id="org5430c17">La percepción es necesaria para tener al menos algo de objetividad</h3>
+<ul>
+<li>“Before I can think you to mean my world, you must affect my world; before I can think you to mean much of it, you must affect much of it; and before I can be sure you mean it <i>as I do,</i> you must affect it <i>just as I should</i> if I were in your place. Then I, your critic, will gladly believe that we are thinking, not only of the same reality, but that we are thinking it <i>alike</i>, and thinking a great part of its extent” (James, 1885, p. 36).</li>
+<li>En esto podemos encontrar un paralelo con Peirce:
+<ul>
+<li>Entre algo más se aleja de nuestros sentidos, más incierto nos parece: recordemos la cuestión de la luz como línea recta vs los átomos (Peirce, 1891).</li>
+<li>Para Peirce y James, la percepción parece ser el punto de partida de las cosmovisiones y la objetividad.</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-org1382a1a">
+<h3 id="org1382a1a">El papel de las emociones</h3>
+<ul>
+<li>James menciona que para que consideremos algo como real este debe aparecer como algo interesante e importante.
+<ul>
+<li>Siguiendo a Hume, añade que entre más estrecha sea su relación con la percepción, más nos conmoverá.</li>
+
+</ul></li>
+<li>“Among all sensations, the most belief-cornpelling are those productive of pleasure or of pain [&#x2026;] The quality of arousing emotion, of shaking, moving us or inciting us to action, has as much to do with our belief in an object's reality as the quality of giving pleasure or pain. In MIND ix. 188, I have sought to show that our emotions probably owe their pungent quality to the bodily sensations which they involve” (James, 1889, p. 341).</li>
+
+</ul>
+</section>
+<section id="slide-org4586af0">
+<h3 id="org4586af0">Las emociones según James</h3>
+<ul>
+<li>Para James las emociones como el miedo, el amor, la alegría, etc., se reducen a un conjunto de sensaciones físicas (Goldie, 2000).
+<ul>
+<li>Es decir, lo que hace que una emoción sea tal son las sensaciones corporales que la acompañan y caracterizan (Goldie, 2000).</li>
+<li>Tomando como ejemplo un animal que nos da miedo, si quitamos la sensación del temblar de las piernas, de la piel de gallina, del castañetear de los dientes, etc., no queda nada de emoción, sino un juicio a secas (<i>cold judgement</i>) de “este animal es peligroso”.</li>
+
+</ul></li>
+<li>Una cualidad importante es que siempre somos conscientes de los cambios que se dan en nuestro cuerpo, por lo que siempre que tenemos una emoción debemos saber que están presentes.</li>
+<li>Es por esto que las emociones tienen una fuerza tan grande sobre nuestras creencias, porque parten de aquello que determina nuestra realidad primaria.</li>
+
+</ul>
+</section>
+<section id="slide-orgf58515f">
+<h3 id="orgf58515f">El problema de esta concepción</h3>
+<ul>
+<li>Goldie (2000) le plantea tres críticas a la postura reduccionista de James:
+<ol>
+<li>Hay casos en los que las emociones producen cambios corporales y no nos damos cuenta: cuando un soldado se orina del miedo o cuando la adrenalina previene que sintamos dolor.</li>
+<li>Hay emociones como el orgullo o el lamento (<i>grief</i>) en las que no parece haber ninguna sensación corporal que las determine.</li>
+<li>La corporalidad no es capaz de explicar la intencionalidad de las emociones, sino que requieren de algo más para tener un objeto.</li>
+
+</ol></li>
+
+</ul>
+</section>
+<section id="slide-orgeb4b2c9">
+<h3 id="orgeb4b2c9"><i>Tengo miedo, Dave:</i> ¿los robots pueden tener emociones?</h3>
+<div class="column" style="float:right; width:75%">
+<ul>
+<li>Pero de todos modos, podemos plantear si desde la concepción de James  los robots tienen emociones.</li>
+<li>Con excepción del problema de la consciencia (bien chiquito que es), parece que los demás elementos pueden estar:
+<ul>
+<li>Si hay una serie de sensores (en la mayoría de computadores tenemos la cámara, el micrófono, el ratón, el teclado, etc.), se podría dar el paralelo con las sensaciones corporales.</li>
+<li>Claramente los computadores pueden almacenar valores, como lo puede ser “esta persona es peligrosa”.</li>
+<li>Según la caracterización de James hecha por Goldie, con esto tendríamos todos los elementos necesarios para hablar de emociones.</li>
+
+</ul></li>
+
+</ul>
+
+
+</div>
+
+<div class="column" style="float:left; width:15%">
+
+<div class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HAL9000_Case.svg/220px-HAL9000_Case.svg.png" alt="220px-HAL9000_Case.svg.png" />
+</p>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="slide-org6dcd88e">
+<h2 id="org6dcd88e">El problema de la realidad y la verdad</h2>
+<div class="outline-text-2" id="text-org6dcd88e">
+</div>
+</section>
+<section id="slide-org295d8dc">
+<h3 id="org295d8dc">Atención: esta sección está basada en un comentario de Russell a otro texto (<i>Pragmatism, a new name for old ways of thinking</i>). De todos modos me pareció interesante plantear su crítica con relación a lo que leímos en <i>The Psychology of Belief</i>.</h3>
+</section>
+<section id="slide-org6a041c9">
+<h3 id="org6a041c9">La realidad como mera categoría</h3>
+<ul>
+<li>Según James, la realidad parece ser más una categoría que aplicamos a nuestros concepto que un criterio objetivo.
+<ul>
+<li>La realidad es una forma en la que pensamos sobre nuestras creencias.</li>
+
+</ul></li>
+<li>Nuestra experiencia personal se vuelve el criterio último para decidir si consideraremos algo como real o no.
+<ul>
+<li>En el fondo, le concedemos realidad a todo lo que nos afecte de forma práctica de uno u otro modo.</li>
+
+</ul></li>
+<li>Pero entonces parece que cuando hay cierto tipo de disputas no habría realmente una forma de resolverlas:
+<ul>
+<li><i>Ceteris paribus</i>, tanto el católico como el musulmán pueden considerar que sus creencias se corresponden con la realidad, y cada postura contradice a la otra.</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgf856af3">
+<h3 id="orgf856af3"><i>Quid est veritas?</i></h3>
+<ul>
+<li>Esta forma de plantear la realidad implica una nueva forma de entender la verdad.</li>
+<li>Aquí entra en juego la máxima pragmática, la cual James plantea como:
+<ul>
+<li>“Para alcanzar la claridad perfecta en nuestros pensamientos respecto de un objeto, pues, sólo necesitamos examinar los efectos de tipo práctico que el objeto puede implicar, qué sensaciones podemos esperar de él, y qué reacciones debemos prevenir. Nuestra concepción de estos efectos, sean próximos o remotos, es entonces para nosotros toda la concepción del objeto, en la medida en que esta concepción tiene un significado positivo” (citado en Russell, 2012, p. 140).</li>
+
+</ul></li>
+<li>Naturalmente, la verdad es entendida en terminos prácticos, en la forma en la que afecta nuestra relación con creencias, objetos, personas, etc.
+<ul>
+<li>Es decir, la verdad de una creencia se concibe desde su utilidad en relación con aquellas cosas que consideramos como reales; o en otras palabras, si es beneficioso el obrar que se sigue de dicha creencia (Russell, 2012).</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgb492d75">
+<h3 id="orgb492d75">¿Puede ser verdad el pragmatismo?</h3>
+<ul>
+<li>Pero si aceptamos todo esto, ¿podemos aceptar como verdadero al pragmatismo? ¿Es útil su criterio de verdad?</li>
+<li>Russell (2012) considera que no, puesto que encontrar y luego analizar todos los efectos prácticos de algo no suele ser una cosa práctica.
+<ul>
+<li>¿Podemos considerar verdaderas las propuestas de Rousseau? Uno de sus efectos fue la Revolución Francesa, que cambió por completo el estado de Europa.</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgb00ff6d">
+<h3 id="orgb00ff6d">La propuesta ed James es problemática</h3>
+<ul>
+<li>Así, creo que podemos decir que la forma en la que James plantea la realidad es problemática al impedir cualquier otro criterio que el pragmático.</li>
+<li>Quizá una interpretación más cercana a Peirce y su realismo científico pueda servir como solución.</li>
+
+</ul>
+</section>
+</section>
+<section>
+<section id="slide-orgf4e6bcd">
+<h2 id="orgf4e6bcd">Bibliografía</h2>
+<ul>
+<li>James, William (1885). On the function of cognition. <i>Mind</i> 10 (37):27-44.</li>
+<li>Jardí, Enric (2015). Cómo debemos mirar las letras. <i>Cómo elegir tipografías</i>. Recuperado de: <a href="https://www.domestika.org/es/courses/91-como-elegir-tipografias">https://www.domestika.org/es/courses/91-como-elegir-tipografias</a></li>
+<li>Goldie, Peter (2000). <i>The Emotions: A Philosophical Exploration</i>. Oxford University Press.</li>
+<li>James, William (1889). The psychology of belief. <i>Mind</i> 14 (55):321-352.</li>
+<li>Peirce, C. (1891). THE ARCHITECTURE OF THEORIES. <i>The Monist</i>, 1(2), 161-176. Retrieved August 7, 2020, from www.jstor.org/stable/27896847</li>
+<li>Russell, B. (2012). La concepción de la verdad de William James. En <i>Ensayos filosóficos</i> (Segunda reimpresión, pp. 135-157). Alianza Editorial.</li>
+<li>Spinoza, B. de. (2018). Ética (V. Peña, Trad.; 3.ª ed.). Alianza Editorial.</li>
+
+</ul>
+</section>
+<section id="slide-org1c0108d">
+<h3 id="org1c0108d">Gracias :D</h3>
+</section>
+</section>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+slideNumber:"c/t",  width: 1200,
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'https://cdn.jsdelivr.net/npm/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>

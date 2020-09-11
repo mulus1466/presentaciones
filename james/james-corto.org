@@ -1,4 +1,4 @@
-#+title: Sobre creencias, emociones y verdad
+#+title: Sobre creencias y emociones
 #+subtitle: Una co-relatoría sobre /The Psychology of Belief/
 #+LANGUAGE: es
 #+OPTIONS: toc:1 num:nil reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
@@ -74,28 +74,6 @@
 #+REVEAL_HTML: <div class="column" style="float:left; width:15%">
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HAL9000_Case.svg/220px-HAL9000_Case.svg.png]]
 #+REVEAL_HTML: </div>
-* El problema de la realidad y la verdad
-** Esta sección está basada en un comentario de Russell a otro texto (/Pragmatism, a new name for old ways of thinking/). De todos modos me pareció interesante plantear su crítica con relación a lo que leímos en /The Psychology of Belief/.
-** La realidad como mera categoría
-- Según James, la realidad parece ser más una etiqueta que aplicamos a nuestros concepto que un criterio objetivo.
-  - La realidad es una /forma/ en la que pensamos sobre nuestras creencias.
-- Nuestra experiencia personal se vuelve el criterio último para decidir si consideraremos algo como real o no.
-  - En el fondo, le concedemos realidad a todo lo que nos afecte de forma práctica de uno u otro modo.
-- Pero entonces parece que cuando hay cierto tipo de disputas no habría realmente una forma de resolverlas:
-  - /Ceteris paribus/, tanto el católico como el musulmán pueden considerar que sus creencias se corresponden con la realidad, siendo ambas posturas contradictorias.
-** /Quid est veritas?/
-- Esta forma de plantear la realidad implica una nueva forma de entender la verdad.
-- Aquí entra en juego la máxima pragmática, la cual James plantea como:
-  - “Para alcanzar la claridad perfecta en nuestros pensamientos respecto de un objeto, pues, sólo necesitamos examinar los efectos de tipo práctico que el objeto puede implicar, qué sensaciones podemos esperar de él, y qué reacciones debemos prevenir. Nuestra concepción de estos efectos, sean próximos o remotos, es entonces para nosotros toda la concepción del objeto, en la medida en que esta concepción tiene un significado positivo” (citado en Russell, 2012, p. 140).
-- La verdad es, pues, entendida en terminos prácticos, con base en la forma en la que afecta nuestra relación con creencias, objetos, personas, etc.
-  - Es decir, la verdad de una creencia se concibe /desde su utilidad/ en relación con aquellas cosas que consideramos como reales; o en otras palabras, si es beneficioso el obrar que se sigue de dicha creencia (Russell, 2012).
-** ¿Puede ser verdad el pragmatismo?
-- Pero si aceptamos todo esto, ¿podemos aceptar como verdadero al pragmatismo? ¿Es útil su criterio de verdad?
-- Russell (2012) considera que no, puesto que encontrar y luego analizar todos los efectos prácticos de algo no suele ser una cosa práctica.
-  - ¿Podemos considerar verdaderas las propuestas de Rousseau? Uno de sus efectos fue la Revolución Francesa, que cambió por completo el estado de Europa.
-** La propuesta ed James es problemática
-- Así, creo que podemos decir que la forma en la que James plantea la realidad es problemática al impedir cualquier otro criterio que el pragmático.
-- Quizá una interpretación más cercana a Peirce y su realismo científico pueda servir como solución.
 * Bibliografía
 - James, William (1885). On the function of cognition. /Mind/ 10 (37):27-44.
 - Jardí, Enric (2015). Cómo debemos mirar las letras. /Cómo elegir tipografías/. Recuperado de: https://www.domestika.org/es/courses/91-como-elegir-tipografias

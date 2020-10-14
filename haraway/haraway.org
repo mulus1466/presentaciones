@@ -7,7 +7,7 @@
 
 #+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
 #+REVEAL_THEME: black
-#+REVEAL_HEAD_PREAMBLE: <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet"> <link href="https://fonts.googleapis.com/css2?family=Monofett&display=swap" rel="stylesheet"> <style>.reveal {font-family: 'Share Tech Mono'; color: #00ff00; font-size: 20pt} .reveal h1 {font-family: 'Monofett'; font-size: 4em; color: #00ff00;}  .reveal h2 {font-family: 'Monofett'; color: #00ff00; font-size: 3em} .reveal h3 {font-family: 'Monofett'; color: #00ff00; font-size: 2em} .reveal h5 {color: #00ff00; font-family: 'Share Tech Mono';} .reveal a {color: #00cc00} .reveal a:hover {color: #4dff4d} .reveal .controls, .reveal .progress {color: #00ff00} ul li { padding: 10px 0px; }</style>
+#+REVEAL_HEAD_PREAMBLE: <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet"> <link href="https://fonts.googleapis.com/css2?family=Monofett&display=swap" rel="stylesheet"> <style>.reveal {font-family: 'Share Tech Mono'; color: #00ff00; font-size: 20pt} .reveal h1 {font-family: 'Monofett'; font-size: 4em; color: #00ff00;}  .reveal h2 {font-family: 'Monofett'; color: #00ff00; font-size: 3em} .reveal h3 {font-family: 'Monofett'; color: #00ff00; font-size: 2em} .reveal h5 {color: #00ff00; font-family: 'Share Tech Mono';} .reveal a {color: #009900} .reveal a:hover {color: #4dff4d} .reveal .controls, .reveal .progress {color: #00ff00} ul li { padding: 10px 0px; }</style>
 
 * Introduction
 ** Donna Haraway

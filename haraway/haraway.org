@@ -1,0 +1,138 @@
+#+title: Sex, gender, cyborgs and Marxism
+#+subtitle: In a galaxy Har, Haraway
+#+author: Martín Buenahora Bonilla
+#+LANGUAGE: en
+#+MACRO: NEWLINE @@latex:\\@@ @@html:<br>@@ @@ascii:|@@
+#+OPTIONS: toc:1 num:nil reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
+
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
+#+REVEAL_THEME: black
+#+REVEAL_HEAD_PREAMBLE: <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet"> <link href="https://fonts.googleapis.com/css2?family=Monofett&display=swap" rel="stylesheet"> <style>.reveal {font-family: 'Share Tech Mono'; color: #00ff00; font-size: 20pt} .reveal h1 {font-family: 'Monofett'; font-size: 4em; color: #00ff00;}  .reveal h2 {font-family: 'Monofett'; color: #00ff00; font-size: 3em} .reveal h3 {font-family: 'Monofett'; color: #00ff00; font-size: 2em} .reveal h5 {color: #00ff00; font-family: 'Share Tech Mono';} .reveal a {color: #00cc00} .reveal a:hover {color: #4dff4d} .reveal .controls, .reveal .progress {color: #00ff00} ul li { padding: 10px 0px; }</style>
+
+* Introduction
+** Donna Haraway
+ #+REVEAL_HTML: <div class="column" style="float:left; width:20%">
+[[https://sites.google.com/site/dma0910/_/rsrc/1468743794666/donna-haraway/haraway1.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width:80%">
+- (1944) She is born in Colorado.
+- (????) In her youth she would discuss about words with her father.
+- (1966) She majored in Zoology and minored in Philosophy and English in the Colorado College.
+- (????) She move to Paris to study evolutionary philosophy and technology.
+- (1972) Got a Ph. D. in Biology at Yale.
+- (1985) She publishes /“A Manifesto for Cyborgs: Science, Technology, and Socialist Feminism in the 1980s”/
+- She specializes in feminism, philosophy of technology and posthumanism.
+** My feel about this reading
+- Some of the movements discussed seem to reject /everything/ from tradition: “Todo mal. Todo muy mal.”
+- It seems that feminism ought to be the ultimate solution to everything... But why?
+  - Does this presuppose that women should take care of others? (Credit to Daniela Velez).
+* ‘Gender’ for a Marxist Dictionary: The Sexual Politics of a Word
+** The biography of this entry
+- In 1983 Haraway was asked to write the “sex/gender” entry on the German edition of the /Dictionarie Critique du Marxism/, which would add some new entries.
+- First she saw that her distinction applied to English, not to other languages; and then she saw that only to /some versions of English/.
+- Even the starting point, Gayle Rubin's ideas, was problematic: they had been adapted by many different women, and recent sensibilities focused on race instead of class.
+  - How do we relate sex and race with gender, and then with class?
+** On the distinction itself
+- The Latin from which “gender” originates is /generare/, which means to beget. In English and other languages “gender” is related to different systems of classifications.
+  - I.e. kinds of words, kinds of things, sexes; in some cases implies race, taxonomy, nationality, etc.
+- This distinction is marked by it’s history, both of the colonialist, racist, etc., countries in which it originates and of the feminist movement in them.
+** The hole left by Marx and Engels
+- The idea of gender comes mainly from the post Second World War social conditions and from Simone de Beauvoir, inspired by the Marxist tradition.
+  - It aimed at understanding woman’s subordination as a group; a subordination that was naturalized by a discourse on sex.
+- Marx and Engels did not write much about women, and what they wrote naturalized sex relations instead of considering them as a product of history.
+- Thus, the question of women was left for their inheritors to discuss.
+** The binary ties of the sex-gender distinction
+- The basis of the gender identity paradigm was placed by many different disciplines that were dominated by racist bourgeois men (mainly).
+- The first definition was given within the biology-culture distinction, which was then widened by further studies to many sex and gender differences within the confines of biology and society.
+- Unfortunately, second wave feminism did not extend it’s critique of binarism to the sex-gender distinction, as it proved useful for their fight.
+  - On the contrary, it radicalized as sex was related to nature and through it to some determinism opposed to the social constructionism that many feminist promoted.
+** Leaving binarism behind
+- Some feminist like Butler have argued that this distinction limits feminism to heterosexual fictions, implies a discrimination of race and prevents it from attaining complex notions of agency and responsibility.
+- Haraway thinks that this failure has come about because of feminism's refusal to consider the historicity of the sex-gender distinction.
+- But this distinction started to be left behind in the 1980s, after an initial explosion in writing and debate on the topic, and after it was challenged by accusations of racism within feminism.
+** The historical analysis and heterosexuality
+- With time, American feminism left behind the empiricist scientism it had and turned to French psychoanalysis and structuralism.
+  - This allowed a Marxist approximation to the sex-gender distinction, seeing it as a historical product that oppressed women through work and obligatory heterosexuality.
+- Other feminist also saw the normalization of heterosexuality as a problem, calling for a ‘lesbian continuum’ to ground the sisterhood, or for lesbianism as the eliminator of women as a oppressed class.
+  - Thus, they called from the withdrawal of marriage, as it is considered an institution that objectifies women.
+** Other developments
+- Based on this, feminist like Hartmann have said that the sex-gender distinction is the basis of men control over women’s reproduction.
+- Others, like Young, argued that capitalism and patriarchy were one unified system of oppression, as the first division of labor was between men and women.
+  - Thus the fight for freedom of women and the working class are one and the same.
+- And others emphasised the Marxist interpretation of reproduction and raising of children that was considered women’s labor because of their sex.
+** More positions
+- It has also been developed to argue against pornography, as it objectifies women and is an expression of the system that defines them by the use other make of their sexuality.
+- Some feminist of color criticised how the concept of gender eclipsed all others, and mainly considered the marginalized with the categories made by white, middle classed women.
+  - For example, the status of the slave woman in relation to her children and partner was far different from that of the white women; thus they have different approaches to reproductive rights.
+** Final remarks
+- Thus, the fight for feminism also brought about the politics of difference, which grouped individuals by being different rather than by being women.
+- This challenges the traditional notions of subjectivity and agency, which are based mainly on internal coherence.
+  - As they define themselves by being different, some “contradictions” are bound to arise.
+- Thus, they question the idea of the primacy of gender, of culture and nature, and other forms of binarism.
+* A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century
+** Haraway’s cyborg
+#+ATTR_HTML: :width 80% :height 80%
+[[https://memegenerator.net/img/instances/67213511/you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means.jpg]]
+
+** Introduction
+- In this chapter Haraway wants to propose the cyborg as a blasphemous and ironic image of American socialist feminism.
+  - It is an interesting image as it captures the contradictions of the created and the given, the fictional and the real, just as women’s experience has been found to be.
+  - Cyborgs form part of our fictions, but also of the realities of medicine, reproduction and war.
+- There is a sense in which we are all cyborgs, as we are a hybrid of the artificial and the organic which determines our ontology and our politics.
+** The disconectedness of the cyborg
+- An interesting fact about the cyborg is that it is removed from the idea of a genesis, of an initial unity from which one separates.
+  - This idea of the original unity is what bases the discourses of the domination of women and nature, as psychoanalysis and Marxism claim.
+- Cyborgs are separated from all that (supposedly) define us: impartiality, the private/public distinction, the family, and in general the idea that we are incomplete.
+** Three questioned distinctions
+1. Contemporary science has shown that there is no real or significant distinction between humans and animals.
+   - Cyborgs contrast with the idea that humans and animals are separated, as it is the coupling of humanity with something else.
+2. Other developments in technology have questioned the traditional idea that human activity is real, while the machine is just a mocking imitation of it.
+3. A final distinction that has been blurred is that of the physical and non-physical, as our technology has miniaturized to the point that became ethereal: is everywhere and nowhere at the same time.
+** What the cyborgs could imply
+- Haraway’s cyborg sits right in the blurred lines of all of these old distinctions, and thus serves the purpose of questioning the traditional form of opposition that tends towards the forgotten extreme.
+- The power of this image is shown by it’s two contradictory interpretations:
+  1. Either the cyborg world is a dystopia in which masculinist war driven conception of the world finally dominates women’s bodies.
+  2. Or it is a world in which everyone is comfortable with their internal contradictions, with being incomplete, and with there not being substantial distinctions with nature and technology.
+** Discrimination and cyborg feminism
+- The idea of identity has been criticised to the point that many reject any kind of unity by things like race, class, gender, etc.
+  - This has made the term affinity more prominent than that of identity.
+- Feminists like Chela Sandoval have taken this and proposed oppositional consciousness, in which marginalized individuals create a group out of affinity.
+  - The women of color “group” would be an example of this affinity created by exclusion and negation.
+  - This goes against the exclutionist and appropriationist tendencies of liberal, radical and socialist feminism.
+- Thus comes cyborg feminism, which accepts this idea of affinity and recognizes that past feminist practices were discriminatory and imperialistic
+  - This allows that marginalized groups can unite to fight oppressive powers.
+** We are at the beginning of a transition
+|---------------------------+---------------------------------|
+| Representation            | Simulation                      |
+|---------------------------+---------------------------------|
+| Bourgeois novel, realism  | Science fiction, postmodernism  |
+| Small group               | Subsystem                       |
+| Reproduction              | Replication                     |
+| Family / Market / Factory | Women in the integrated circuit |
+| Public / Private          | Cyborg citizenship              |
+| Nature / Culture          | Fields of difference            |
+| Sex                       | Genetic engineering             |
+| Labour                    | Robotics                        |
+| Mind                      | Artificial Intelligence         |
+| Second World War          | Star Wars                       |
+|---------------------------+---------------------------------|
+** A change based on coding
+- In a cyborg world we would not recourse to natures to explain and order the world, but rather to processes and statistics.
+  - Feminism should leave aside this rigid notion of category: “The cyborg is a kind of disassembled and reassembled, postrnodern collective and personal self. This is the self feminists must code” (p. 163).
+- In general we see a shift from the object conception to the coded conception: now things are not just objects, but something that can be modified based on information and data exchange.
+- All this provides new scenarios for feminist thinkers to analyze, as it creates far different elements than those found within traditional feminist discourses.
+** The homework economy and it's consequences
+- This implies a new order in work and sex relations, as traditional female work is redefined to include new groups.
+- As automation gets men out of the workforce, the working class is starting to feminize, making white women deal with problems familiar to black women.
+- All of these developments affect women’s sexuality, as they imply new social relations that imply technology: aesthetic surgery and photography.
+- Because of all of this there is a network of different spaces that transcends the traditional private-public distinction.
+** Closing remarks
+- The writings of many have made possible all of these analyses, and writing in general is a tool for emancipation and recognition.
+- What cyborg feminism should aim for is the recognition that language will always be partial, never able to have an absolute stance; and that is okay.
+- Thus the cyborg becomes the mythical image of feminism, as one that defines the borderline concepts of contemporary definitions.
+** 
+/“Cyborg imagery can suggest a way out of the maze of dualisms in which we have explained our bodies and our tools to ourselves. This is a dream not of a common language, but of a powerful infidel heteroglossia. It is an imagination of a feminist speaking in tongues to strike fear into the circuits of the super-savers of the new right. It means both building and destroying machines, identities, categories, relationships, space stories. Though both are bound in the spiral dance, I would rather be a cyborg than a goddess.”/ (p.181)
+** Thanks! :D
+[[https://www.rewisor.com/wp-content/uploads/2020/08/Quien-es-Donna-Haraway-780x525.jpg]]
+

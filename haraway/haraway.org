@@ -133,6 +133,9 @@
 - Thus the cyborg becomes the mythical image of feminism, as one that defines the borderline concepts of contemporary definitions.
 ** 
 /“Cyborg imagery can suggest a way out of the maze of dualisms in which we have explained our bodies and our tools to ourselves. This is a dream not of a common language, but of a powerful infidel heteroglossia. It is an imagination of a feminist speaking in tongues to strike fear into the circuits of the super-savers of the new right. It means both building and destroying machines, identities, categories, relationships, space stories. Though both are bound in the spiral dance, I would rather be a cyborg than a goddess.”/ (p.181)
+** References
+- Haraway, D. (1991). Cyborgs, simians, and women: The reinvention of nature. New York: Routledge.
 ** Thanks! :D
 [[https://www.rewisor.com/wp-content/uploads/2020/08/Quien-es-Donna-Haraway-780x525.jpg]]
-
+** About this presentation
+These slides were made using [[https://github.com/yjwen/org-reveal][Org-Reveal]]. The source code can be found [[https://github.com/mulus1466/presentaciones/blob/master/haraway/haraway.org][here]].

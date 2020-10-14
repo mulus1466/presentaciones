@@ -138,4 +138,4 @@
 ** Thanks! :D
 [[https://www.rewisor.com/wp-content/uploads/2020/08/Quien-es-Donna-Haraway-780x525.jpg]]
 ** About this presentation
-These slides were made using [[https://github.com/yjwen/org-reveal][Org-Reveal]]. The source code can be found [[https://github.com/mulus1466/presentaciones/blob/master/haraway/haraway.org][here]].
+These slides were made using [[https://github.com/yjwen/org-reveal][Org-Reveal]]. The source code of this presentation can be found [[https://github.com/mulus1466/presentaciones/blob/master/haraway/haraway.org][here]].

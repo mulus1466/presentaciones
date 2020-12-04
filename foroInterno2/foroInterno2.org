@@ -1,0 +1,55 @@
+#+TITLE: Reexplorando la experiencia de la gracia
+#+SUBTITLE: Una aproximación goldiana a las teorías de la incongruencia del humor
+#+LANGUAGE: es
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
+#+OPTIONS: toc:1
+#+REVEAL_THEME: white
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
+#+REVEAL_HEAD_PREAMBLE: <link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400&family=Open+Sans&display=swap" rel="stylesheet"> <style>.reveal {font-family: 'Open Sans'; font-size: 22pt} .reveal h1 {font-family: 'Caveat'; font-size: 2.5em;}  .reveal h2 {font-family: 'Caveat'; font-size: 1.5em} .reveal h3 {font-family: 'Caveat'; font-size: 1.5em} .reveal h5 {font-family: 'Open Sans'}</style>
+
+* Mi propuesta de hoy
+Las teorías de la incongruencia han tenido algunos problemas por estar basadas en concepciones intelectualistas de las emociones. Entre esos se encuentran la relación del humor con la respuesta que causa en las personas y algunas limitaciones en cuestiones epistemológicas. Tomar una teoría diferente sobre las emociones, como la de Goldie, nos ayuda a resolver estos problemas.
+* Mi ejemplo de siempre: Quino
+#+ATTR_HTML: :height 60%, :width 60%
+[[./sepultuperrozoom.jpg]]
+* Sobre el humor
+** Las teorías de la incongruencia
+- El punto central de las teorías de la incongruencia es que el humor radica en presentarnos algo incongruente o absurdo.
+  - Así, el ser humorístico sería una propiedad que tiene algo.
+- La incongruencia no es una contradicción lógica, sino un tipo de transgresión,  contraste, o algo inapropiado.
+- Así, tendríamos una experiencia humorística cuando pensamos en un juicio absurdo, como “es absurdo que un perro sea sepulturero”.
+** El bolate de la risa
+- Inicialmente las teorías de la incongruencia querían explicar la risa, pero se centraron en el humor por cuenta de varios contraejemplos.
+  - Están la risa nerviosa, la risa por cosquillas, la risa causada por cosas psicológicas, etc.
+- Pero entonces parece que la risa se vuelve el único elemento en nuestra experiencia del humor, aparte de un juicio.
+** ¿Qué relación  tendría el humor con el conocimiento?
+- Además, el que nuestra experiencia del humor dependa de un contenido mental implica que no llegamos a conocer nada nuevo.
+  - Para que pueda tener una experiencia del humor ya debo estar pensando en “es absurdo que un perro sea sepulturero”.
+- Críticos como Kant dicen que como el contenido mental que nos propone el humor es un juicio absurdo, no puede proveer conocimiento.
+- Filósofos como Carroll (2014) y Morreall (2020) consideran que el humor nos ayuda a encontrar errores o a desarrollar el pensamiento abstracto.
+* Sobre las emociones
+** La propuesta de Goldie sobre las emociones
+- Quiero usar el planteamiento de Goldie (2000) para aproximarme a las teorías de la incongruencia de una forma un poco distinta a la usual.
+- La propuesta de Goldie pone en el centro a las sensaciones que tenemos al experimentar una emoción, en vez de los juicios.
+  - Lo que hace que una emoción sea sobre algo no es que tengamos un juicio, sino una sensación sobre ello.
+- Esto nos permite plantear a las emociones como fuentes de conocimiento, ya que el punto de partida no es un juicio.
+** El proceso de conocimiento por medio de las emociones
+1. Tenemos una sensación, lo que nos informa que tenemos una emoción.
+   - /Sentir que nos reímos, que estamos alegres, etc., nos informa que estamos experimentando la gracia./
+2. El hecho de que tengamos una emoción (en circunstancias adecuadas) nos informa de que el objeto de la emoción tiene una propiedad.
+   - /Cuando experimentamos gracia por algo es que es gracioso./
+/Nota: Es posible que nuestro estado emocional no sea el adecuado, lo que truncaría este proceso./
+* ¿Qué implicaciones tiene esto para el humor?
+- Cambiar el énfasis de juicios a sensaciones nos permite describir distinguir mejor entre el humor como género y la gracia como respuesta.
+  - No todo lo que nos parece gracioso tiene que ser absurdo; el humor sería algo creado con la intención de causar gracia por medio del absurdo.
+  - La gracia estaría caracterizada por la risa, la alegría, la “tranquilidad” y la apertura/expectativa.
+- También se abre la puerta a que el humor sea una fuente de conocimiento.
+  - Dado que el humor radica en el absurdo, cuando algo humorístico nos causa gracia podemos llegar a conocer que lo que nos muestra es absurdo.
+  - Además, como la gracia es una emoción agradable y caracterizada por la expectativa, facilita que nuestro estado emocional sea e adecuado para adquirir conocimiento.
+* Bibliografía principal
+- Carroll, N. (1999). Horror and Humor. /The Journal of Aesthetics and Art Criticism,/ 57(2), 145-160. doi:10.2307/432309
+- Carroll, N. (2014). /Humour: A very short introduction./ OUP Oxford.
+- Goldie, P. (2000). /The emotions: A philosophical exploration./ Oxford University Press.
+- Morreall, J. (1983). Taking laughter seriously. Suny Press.
+- Morreall, J. (2020) Philosophy of Humor. /The Stanford Encyclopedia of Philosophy/ (Fall 2020 Edition). Recuperado de: https://plato.stanford.edu/archives/fall2020/entries/humor/

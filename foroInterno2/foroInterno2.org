@@ -1,7 +1,7 @@
 #+TITLE: Una aproximación goldiana a las teorías de la incongruencia del humor
 #+LANGUAGE: es
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
-#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
+#+REVEAL_INIT_OPTIONS: width: 1200
 #+OPTIONS: toc:1
 #+REVEAL_THEME: serif
 #+REVEAL_HLEVEL: 2

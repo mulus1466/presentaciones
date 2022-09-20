@@ -1,0 +1,125 @@
+#+title: /Un análisis del papel de la Teoría cognitivista de las emociones en la relación entre los conceptos y el humor según la Teoría de la incongruencia de Noël Carroll/
+#+LANGUAGE: es
+#+OPTIONS: toc:1 num:nil reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
+#+REVEAL_THEME: serif
+
+#+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap"><style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'IM Fell English', serif; heading-font: 'IM Fell English', serif; font-family: 'IM Fell English', serif;} .reveal h1 {font-size: 3.5em} .reveal{font-size: 23pt}</style>
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
+#+REVEAL_HEAD_PREAMBLE: <style>.reveal h1 {font-size: 1.75em} .reveal{font-size: 22pt}</style>
+* Tesis central
+- Carroll propone, por medio del argumento X, que el humor no puede “mejorar” nuestros conceptos.
+- Dado que no es clara la influencia de la Teoría cognitivista de las emociones en la Teoría de la incongruencia del humor, el argumento X nos lleva al dilema Y.
+* La Teoría de la incongruencia del humor
+** Una teoría con dos aspectos
+1. Aspecto objetivo: las cualidades que debe poseer algo para ser /humorístico/.
+2. Aspecto subjetivo: el efecto que /debe/ generar en la audiencia.
+** Aspecto objetivo: tesis central
+- El humor busca mostrarnos algo de modo que nos /parezca incongruente/.
+- La incongruencia será una problematización del sentido
+- No es una incongruencia absoluta, sino relativa a una visión del mundo.
+** Aspecto objetivo: las 6 tesis generales
+#+ATTR_REVEAL: :frag (appear)
+#+REVEAL_HTML: <div class="column" style="float:left; width: 60%">
+1. El objeto intencional es una incongruencia percibida.
+2. La incongruencia no debe hacernos sentir miedo, ansiedad o vulnerabilidad.
+3. No debe molestarnos.
+4. Debe resultarnos entretenida.
+5. La incongruencia debe tener un papel central, siendo aquello a lo que se nos lleva.
+6. Nos debe llevar a tener una experiencia de levedad.
+
+- ¿Y la sorpresa?
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width: 35%">
+[[./sepultuperro.jpg]]
+#+REVEAL_HTML: </div>
+
+* La Teoría cognitivista de las emociones
+** Aspecto subjetivo: la Teoría cognitivista de las emociones
+- El corazón de la emoción es una evaluación proposicional que puede (o no) ser afirmada.
+- Las emociones tienen un /objeto intencional/.
+- Las emociones se definen/individuan por un criterio de adecuación u /objeto formal/.
+  - Adjudica una cualidad al objeto intencional.
+- Se estructuran como: evaluación ↠ estados fenomenológicos y fisiológicos.
+- Entre otros.
+** Aspecto subjetivo: la gracia “cognitivista”
+- El /objeto intencional/ de la gracia es la(s) escena(s) planteada(s) por un chiste.
+- El /objeto formal/ de la gracia es la incongruencia.
+- Se estructuran como: “esta escena es incongruente” ↠ levedad y risa [etc.].
+- /[Este análisis es opcional, pues Carroll considera que la Teoría de la incongruencia es compatible con otras teorías de las emociones.]/
+** Aspecto subjetivo: Objeción de la irracionalidad
+- ¿De qué nos sirve una sensación agradable al contemplar incongruencias?
+  - ¿De qué le sirve a la razón disfrutar de cosas sin sentido?
+- La objeción ataca la perspectiva cognitivista.
+- Carroll propone que el humor nos ayuda a encontrar, recordar y compartir errores cognitivos.
+  - Pero no “reforma” nuestros conceptos.
+** El argumento /X/
+1. Los conceptos (y grupos de conceptos) son cosas que tienen sentido (presupuesto).
+2. Algo sin sentido no puede implicar algo con sentido (presupuesto).
+3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia).
+4. El humor no puede implicar algo con sentido (de 2 y 3).
+5. El humor no puede implicar un (mejor) concepto (o grupo de conceptos) (de 1 y 4).
+* El dilema /Y/
+** El argumento /X/
+1. Los conceptos (y grupos de conceptos) son cosas que tienen sentido (presupuesto).
+2. Algo sin sentido no puede implicar algo con sentido (presupuesto).
+3. /El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia)./
+4. El humor no puede implicar algo con sentido (de 2 y 3).
+5. El humor no puede implicar un (mejor) concepto (o grupo de conceptos) (de 1 y 4).
+** Desaparece el objeto formal de la gracia
+- No sólo contamos con la escena representada, sino con una toma de postura del sujeto.
+  - “Esta escena /es incongruente”/.
+- No es claro que el argumento X nos permita descartar que este juicio aporte algo a nuestros conceptos.
+  - El juicio “esta escena /es incongruente”/ puede ser verdadero o falso, pero no se nos dan razones para creer que en sí sea incongruente.
+** Desaparece la sorpresa
+- La sorpresa se encuentra implícita en el corazón de la Teoría de la incongruencia.
+  - Se da cuando algo es incongruente con nuestras expectativas del funcionamiento del mundo.
+- Pero la sorpresa no es compatible con la Teoría cognitivista de las emociones.
+  - La sorpresa debe articularse con el objeto formal.
+  - La sorpresa no puede ser otro juicio, pues tendríamos dos emociones distintas.
+  - La sorpresa no puede estar implícita en el juicio de incongruencia, pues la volveríamos un elemento necesario.
+** Primer cuerno del dilema /Y/
+- La Teoría cognitivista de las emociones no es compatible con ciertos aspectos de la Teoría de la incongruencia del humor.
+  - El argumento /X/.
+  - La sorpresa como elemento de ciertos episodios de gracia.
+- Podemos dejar a un lado la Teoría cognitivista de las emociones, lo que nos implica:
+  - Buscar una teoría de las emociones alternativa compatible con la Teoría de la incongruencia.
+  - Re-conceptualizar la incongruencia.
+  - [Spoiler: entre otros.]
+** La Teoría cognitivista como presupuesto del argumento /X/
+- El argumento /X/ sólo tiene en cuenta el aspecto proposicional del humor.
+- ¿Cómo descartamos que los aspectos fenomenológicos y fisiológicos no aporten nada?
+- La teoría cognitivista de las emociones nos propone que estos fenómenos se estructuran como:
+  - *Evaluación* ↠ estados fenomenológicos y fisiológicos.
+- Pero ni la Teoría de la incongruencia ni el argumento /X/ implican dicha estructura.
+  - No se puede derivar de la tesis #1.
+  - No se puede derivar de que el humor sea una propiedad dependiente de respuesta.
+  - No puede derivarse de que el humor parta de una incongruencia relativa.
+** Segundo cuerno del dilema /Y/
+- La Teoría cognitivista de las emociones es un presupuesto de ciertos aspectos de la Teoría de la incongruencia del humor.
+  - El argumento /X/.
+  - La defensa de la Teoría de la incongruencia frente a la Objeción por irracionalidad.
+- Podemos sostener la Teoría cognitivista de las emociones, lo que nos implica:
+  - Rearticular el argumento /X/ para que tenga en cuenta el objeto formal.
+  - Plantear cómo se da la gracia en ciertos episodios de humor.
+** El dilema /Y/
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+*Abandonar la Teoría cognitivista*
+- Nos permite:
+  - Modificar el argumento /X/ para que tenga en cuenta al objeto formal.
+  - Abre la puerta a explorar el papel de la sorpresa en la gacia.
+- Nos implica:
+  - Buscar una teoría de las emociones alternativa compatible con la Teoría de la incongruencia.
+  - Re-conceptualizar la incongruencia.
+  - Rearticular la defensa ante la Objeción por irracionalidad.
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
+*Conservar la teoría cognitivista*
+- Nos permite.
+  * Conservar el enfoque del argumento /X/.
+  * Mantenemos la intuición de Carroll de su respuesta a la Objeción por irracionalidad.
+- Nos implica:
+  - Rearticular el argumento /X/ para que tenga en cuenta el objeto formal.
+  - Buscar una forma de explicar el papel de la sorpresa por medio de la Teoría cognitivista.
+#+REVEAL_HTML: </div>
+** Gracias :D

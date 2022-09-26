@@ -62,7 +62,7 @@
 ** El argumento /X/
 1. Los conceptos (y grupos de conceptos) son cosas que tienen sentido (presupuesto).
 2. Algo sin sentido no puede implicar algo con sentido (presupuesto).
-3. /El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia)./
+3. *El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia).*
 4. El humor no puede implicar algo con sentido (de 2 y 3).
 5. El humor no puede implicar un (mejor) concepto (o grupo de conceptos) (de 1 y 4).
 ** Desaparece el objeto formal de la gracia
@@ -88,7 +88,7 @@
 ** La Teoría cognitivista como presupuesto del argumento /X/
 - El argumento /X/ sólo tiene en cuenta el aspecto proposicional del humor.
 - ¿Cómo descartamos que los aspectos fenomenológicos y fisiológicos no aporten nada?
-- La teoría cognitivista de las emociones nos propone que estos fenómenos se estructuran como:
+- La Teoría cognitivista de las emociones nos propone que estos fenómenos se estructuran como:
   - *Evaluación* ↠ estados fenomenológicos y fisiológicos.
 - Pero ni la Teoría de la incongruencia ni el argumento /X/ implican dicha estructura.
   - No se puede derivar de la tesis #1.
@@ -100,12 +100,12 @@
   - La defensa de la Teoría de la incongruencia frente a la Objeción por irracionalidad.
 - Podemos sostener la Teoría cognitivista de las emociones, lo que nos implica:
   - Rearticular el argumento /X/ para que tenga en cuenta el objeto formal.
-  - Plantear cómo se da la gracia en ciertos episodios de humor.
+  - Plantear cómo se da la sorpresa en ciertos episodios de humor.
 ** El dilema /Y/
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
 *Abandonar la Teoría cognitivista*
 - Nos permite:
-  - Modificar el argumento /X/ para que tenga en cuenta al objeto formal.
+  - Conservar el argumento /X/ sin que tenga en cuenta un objeto formal.
   - Abre la puerta a explorar el papel de la sorpresa en la gacia.
 - Nos implica:
   - Buscar una teoría de las emociones alternativa compatible con la Teoría de la incongruencia.

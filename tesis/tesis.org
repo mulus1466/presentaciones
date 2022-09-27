@@ -7,7 +7,7 @@
 #+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
 #+REVEAL_HEAD_PREAMBLE: <style>.reveal h1 {font-size: 1.75em} .reveal{font-size: 22pt}</style>
 * Tesis central
-- La Teoría de la incongruencia del humor planteada por Carroll junta elementos incongruentes entre sí, lo que lo lleva a un dilema de difícil solución. Puntualmente, la Teoría cognitivista de las emociones resulta ser tanto necesaria como incompatible con la propuesta del humor de Carroll; el dilema Y consiste en si es posible o no conservar dicha teoría.
+La Teoría de la incongruencia del humor planteada por Carroll junta elementos incongruentes entre sí, lo que lo lleva a un dilema de difícil solución. Puntualmente, la Teoría cognitivista de las emociones resulta ser tanto necesaria como incompatible con la propuesta del humor de Carroll; el dilema Y consiste en si es posible o no conservar dicha teoría.
 * La Teoría de la incongruencia del humor
 ** Tesis central de la Teoría de la incongruencia
 - El humor busca mostrarnos algo de modo que nos /parezca incongruente/.

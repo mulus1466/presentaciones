@@ -1,13 +1,15 @@
-#+title: /Un análisis del papel de la Teoría cognitivista de las emociones en la relación entre los conceptos y el humor según la Teoría de la incongruencia de Noël Carroll/
+#+title: Un análisis del papel de la Teoría cognitivista de las emociones en la relación entre los conceptos y el humor según la Teoría de la incongruencia de Noël Carroll
 #+LANGUAGE: es
 #+OPTIONS: toc:1 num:nil reveal_title_slide:"<h1>%t</h1><h3>%s</h3><h5>%a</h5>"
 #+REVEAL_THEME: serif
 
 #+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap"><style>.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {font-family: 'IM Fell English', serif; heading-font: 'IM Fell English', serif; font-family: 'IM Fell English', serif;} .reveal h1 {font-size: 3.5em} .reveal{font-size: 23pt}</style>
 #+REVEAL_INIT_OPTIONS: slideNumber:"c/t",  width: 1200
-#+REVEAL_HEAD_PREAMBLE: <style>.reveal h1 {font-size: 1.75em} .reveal{font-size: 22pt}</style>
+#+REVEAL_HEAD_PREAMBLE: <style>.reveal h1 {font-size: 1.75em;font-style: italic;} .reveal{font-size: 22pt}</style>
+#+MACRO: color @@html:<font color="$1">$2</font>@@
+
 * Tesis central
-La Teoría de la incongruencia del humor planteada por Carroll junta elementos incongruentes entre sí, lo que lo lleva a un dilema de difícil solución. Puntualmente, la Teoría cognitivista de las emociones resulta ser tanto necesaria como incompatible con la propuesta del humor de Carroll; el dilema Y consiste en si es posible o no conservar dicha teoría.
+La Teoría de la incongruencia del humor planteada por Carroll junta elementos incongruentes entre sí, lo que lo lleva a un dilema de difícil solución. Puntualmente, la Teoría cognitivista de las emociones resulta ser tanto necesaria como incompatible con la propuesta del humor de Carroll; el dilema /Y/ consiste en si es mejor conservar o rechazar dicha teoría.
 * La Teoría de la incongruencia del humor
 ** Tesis central de la Teoría de la incongruencia
 - El humor busca mostrarnos algo de modo que nos /parezca incongruente/.
@@ -37,72 +39,68 @@ La Teoría de la incongruencia del humor planteada por Carroll junta elementos i
 ** Objeción de la irracionalidad
 - Todas las emociones nos ayudan a navegar el mundo
 - Pero la gracia (según la Teoría de la incongruencia) no parece ayudarnos a ello.
-- ¿De qué le sirve a la razón disfrutar de cosas sin sentido? (Att.: Kant et al.)
+  - ¿De qué le sirve a la razón disfrutar de cosas sin sentido? (Att.: Kant et al.)
 - La objeción ataca la perspectiva cognitivista de la gracia.
 - Carroll resiste esta objeción al afirmar que el humor nos ayuda a encontrar, recordar y compartir errores cognitivos.
 - Pero no reforma o mejora nuestros conceptos.
   - La estrategia de Carroll es el uso del argumento X.
 ** El argumento /X/
-1. Los conceptos (y grupos de conceptos) son cosas que tienen sentido (presupuesto).
+1. Los conceptos son cosas que tienen sentido (presupuesto).
 2. Algo sin sentido no puede implicar algo con sentido (presupuesto).
 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia).
 4. El humor no puede implicar algo con sentido (de 2 y 3).
-5. El humor no puede implicar un (mejor) concepto (o grupo de conceptos) (de 1 y 4).
+5. El humor no puede implicar un (mejor) concepto (de 1 y 4).
 
 * El dilema /Y/
 ** Dilema /Y/
-#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
-*Abandonar la Teoría cognitivista*
+#+REVEAL_HTML: <div class="column" style="float:left; width: 45%">
+*Abandonar la Teoría cognitivista@@html:<br>@@de las emociones*
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
-*Conservar la teoría cognitivista*
+#+REVEAL_HTML: <div class="column" style="float:right; width: 45%">
+*Conservar la Teoría cognitivista@@html:<br>@@de las emociones*
 #+REVEAL_HTML: </div>
 ** El argumento /X/
-1. Los conceptos (y grupos de conceptos) son cosas que tienen sentido (presupuesto).
+1. Los conceptos son cosas que tienen sentido (presupuesto).
 2. Algo sin sentido no puede implicar algo con sentido (presupuesto).
 3. *El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia).*
 4. El humor no puede implicar algo con sentido (de 2 y 3).
-5. El humor no puede implicar un (mejor) concepto (o grupo de conceptos) (de 1 y 4).
+5. El humor no puede implicar un (mejor) concepto (de 1 y 4).
 ** Primer cuerno
-Razones para abandonar la Teoría cognitivista de las emociones.
-*** I) Incompatibilidad con la premisa 3 del argumento /X/
+/Razones para abandonar/ la Teoría cognitivista de las emociones.
+*** I) Debilita la respuesta a la Objeción por irracionalidad
+{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia.)}}}
 - Si bien el objeto intencional de la gracia no tiene sentido, no todos los aspectos de este juicio carecen de sentido.
 - El objeto formal de la gracia tiene la siguiente estructura:
   - “Esta escena /es incongruente”/.
     - Esta constituye una postura de la audiencia, y puede ser caracterizada como verdadera o como falsa.
 - No tenemos razones para creer que el juicio que define la gracia en sí sea incongruente.
-*** II) Exclusión de la sorpresa
-- Carroll considera que en algunos casos de gracia la sorpresa juega un papel relevante en la explicación del humor.
+*** II) No se articula la sorpresa
+- Carroll considera que /en algunos casos/ de gracia la sorpresa juega un papel relevante en la explicación del humor.
 - Pero la Teoría cognitivista no nos permite dar cuenta de su rol explicativo.
-- La gracia se estructuran como: “esta escena es incongruente” ↠ levedad, el entretenimiento y risa [etc.].
-#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
-*Consecuencias*
-- No puede ser una consecuencia porque pierde su aspecto intencional.
-#+REVEAL_HTML: </div>
-
-#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
-*Causa*
-- No puede ser parte de la causa porque o se vuelve necesaria o se vuelve otra emoción.
-#+REVEAL_HTML: </div>
+- No se puede integrar a la estructura de la gracia: “esta escena es incongruente” ↠ levedad, el entretenimiento y risa [etc.].
 *** Primer cuerno del dilema /Y/
 - Tenemos razones para descartar la Teoría cognitivista de las emociones:
-  1. La incompatibilidad con la premisa 3 del argumento /X/.
+  1. El debilitamiento de la defensa contra la Objeción por irracionalidad.
   2. La exclusión de la sorpresa como elemento de ciertos episodios de gracia.
 ** Segundo cuerno
-Razones para preservar la Teoría cognitivista de las emociones.
+/Razón para conservar/ la Teoría cognitivista de las emociones.
 *** La Teoría cognitivista como presupuesto del argumento /X/
-- Si rechazamos la Teoría cognitivista de las emociones tenemos que rechazar el argumento /X/.
-  - Tenemos que rechazar la premisa 3 porque limita la experiencia de la gracia a la incongruencia entendida en términos proposicionales.
-  - Otras teorías de las emociones plantean que hay más elementos aparte de los objetos intencional y formal.
-- Esto rechaza uno de los elementos de la respuesta a la Objeción por irracionalidad, y cuestiona la validez de la aproximación de Carroll a este problema.
-  - ¿Cómo descartamos que los aspectos fenomenológicos y fisiológicos no aporten nada?
+{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia.)}}}
+
+1. Si rechazamos la TC perdemos la respuesta de la TI a la Objeción por irracionalidad
+   - Sin la TC ya no podemos apelar al juicio de incongruencia para explicar la gracia.
+   - Sin el juicio de incongruencia no podemos apelar a la respuesta de Carroll a la objeción por irracionalidad.
+     - No podemos apelar a notar errores en el uso de conceptos.
+2. No es conveniente perder la respuesta a la Objeción por irracionalidad ofrecida por TI.
+   - Para responder a la Objeción por irracionalidad tendríamos que apelar a las teorías del humor ya rechazadas.
+3. Necesitamos la TC para sostener la TI.
 *** Segundo cuerno del dilema /Y/
 - Tenemos una razón para conservar la Teoría cognitivista de las emociones:
   1. La defensa de la Teoría de la incongruencia frente a la Objeción por irracionalidad.
 ** El dilema /Y/
-#+REVEAL_HTML: <div class="column" style="float:left; width: 45%">
-*Abandonar la Teoría cognitivista*
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%">
+*Abandonar la Teoría cognitivista@@html:<br>@@de las emociones*
 - Razones:
   1. La incompatibilidad con la premisa 3 del argumento /X/.
   2. La exclusión de la sorpresa como elemento de ciertos episodios de gracia.
@@ -112,8 +110,8 @@ Razones para preservar la Teoría cognitivista de las emociones.
   - Rearticular la defensa ante la Objeción por irracionalidad.
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div class="column" style="float:right; width: 50%">
-*Conservar la teoría cognitivista*
+#+REVEAL_HTML: <div class="column" style="float:right; width: 45%">
+*Conservar la teoría cognitivista@@html:<br>@@de las emociones*
 - Razón:
   1. La defensa de la Teoría de la incongruencia frente a la Objeción por irracionalidad.
 - Nos implica:
@@ -121,3 +119,4 @@ Razones para preservar la Teoría cognitivista de las emociones.
   - Buscar una forma de explicar el papel de la sorpresa por medio de la Teoría cognitivista.
 #+REVEAL_HTML: </div>
 ** Gracias :D
+#+REVEAL_HTML: <img class="stretch" src="./guernica.jpg">

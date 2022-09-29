@@ -69,7 +69,7 @@ La Teoría de la incongruencia del humor planteada por Carroll junta elementos i
 ** Primer cuerno
 /Razones para abandonar/ la Teoría cognitivista de las emociones.
 *** I) Debilita la respuesta a la Objeción por irracionalidad
-{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia.)}}}
+{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia))}}}
 - Si bien el objeto intencional de la gracia no tiene sentido, no todos los aspectos de este juicio carecen de sentido.
 - El objeto formal de la gracia tiene la siguiente estructura:
   - “Esta escena /es incongruente”/.
@@ -86,7 +86,7 @@ La Teoría de la incongruencia del humor planteada por Carroll junta elementos i
 ** Segundo cuerno
 /Razón para conservar/ la Teoría cognitivista de las emociones.
 *** La Teoría cognitivista como presupuesto de la respuesta a la Objeción por irracionalidad
-{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia.)}}}
+{{{color(gray, 3. El humor es el planteamiento de una escena sin sentido (de la Teoría de la incongruencia))}}}
 
 1. Si rechazamos la TC perdemos la respuesta de la TI a la Objeción por irracionalidad
    - Sin la TC ya no podemos apelar al juicio de incongruencia para explicar la gracia.
